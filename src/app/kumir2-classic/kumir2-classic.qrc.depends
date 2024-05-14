@@ -1,0 +1,6 @@
+<RCC>
+<qresource prefix="/kumir2-launcher">
+<file>splashscreen-classic.png</file>
+<file>window-icon-classic.png</file>
+</qresource>
+</RCC>

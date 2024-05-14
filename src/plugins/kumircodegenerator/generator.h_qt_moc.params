@@ -1,0 +1,9 @@
+-IP:/Documents/projects/c++/github/kumir3/include
+-IP:/Documents/projects/c++/github/kumir3/src
+-IP:/Documents/projects/c++/github/kumir3/src/3rdparty/boost-1.54.0/include
+-IP:/Program Files/Qt/5.15.2/mingw81_64/include
+-IP:/Program Files/Qt/5.15.2/mingw81_64/include/QtCore
+-IP:/Program Files/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++
+-o
+P:/Documents/projects/c++/github/kumir3/src/plugins/kumircodegenerator/generator.h_qt_moc.cpp
+P:/Documents/projects/c++/github/kumir3/src/plugins/kumircodegenerator/generator.h

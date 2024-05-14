@@ -1,0 +1,6 @@
+<RCC>
+<qresource prefix="/kumir2-launcher">
+<file>splashscreen-teacher.png</file>
+<file>window-icon-teacher.png</file>
+</qresource>
+</RCC>

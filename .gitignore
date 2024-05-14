@@ -3,7 +3,9 @@
 CMakeLists.txt.user*
 testing/scripts/*.pyc
 testing/scripts/*.pyo
+CMakeFiles/*
 scripts/*.pyc
+.vs/*
 scripts/*.pyo
 *~
 *.bak
